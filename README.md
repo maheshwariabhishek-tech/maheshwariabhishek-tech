@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Android , Mobile Application**
+- 💬 Ask me about **Android , Mobile Application, Web Devlopment**
 
 - 📫 How to reach me **abhishekmaheshwari.contact@gmail.com**
 
