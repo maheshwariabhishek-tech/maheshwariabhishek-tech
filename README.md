@@ -1,6 +1,6 @@
 <!--
 **Abhishe Maheshwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-[![MasterHead](https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjczNzM1NzIsIm5iZiI6MTc2NzM3MzI3MiwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0ODAtMjE5YmNjNzAtZjVkYy00NjZiLTlhNjAtMjk2NTNkOGU4NDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTAyVDE3MDExMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM4NWViY2I2NTkxNDJhZmQzNzhiZTM4ZDc2NjcxN2RhYTZkMzAyZWRlNTMwODY3ZjRiMWE1ZTEzZGVjZWQwZGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.1xh9eQoB08VvdkiVCYxO5TwcYdlh3Xi2SGqIbnlw7D8)](https://github.com/maheshwariabhishek-tech)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/maheshwariabhishek-tech)
 
 <h1 align="center">Hi 👋, I'm Abhishek Maheshwari</h1>
 <h3 align="center">I am a self-taught programmer from INDIA. 🔭</h3>
