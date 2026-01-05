@@ -3,7 +3,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/maheshwariabhishek-tech)
 
 <h1 align="center">Hi 👋, I'm Abhishek Maheshwari</h1>
-<h3 align="center">I am a self-taught programmer from INDIA. 🔭</h3>
+<h3 align="center">I am a self-taught programmer from INDIA.</h3>
 
 ### I am incredibly passionate about building unique and innovative products, love experimenting with new technologies! 👋
 
