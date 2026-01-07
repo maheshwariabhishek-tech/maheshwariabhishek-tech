@@ -7,9 +7,7 @@
 
 ### I am incredibly passionate about building unique and innovative products, love experimenting with new technologies! 👋
 
-- 🔭 I’m currently working on **Hybrid Android App**
-
-- 🌱 I’m currently learning **React Native**
+- 🔭 I’m currently working on **React Native, NextJS, ReactJS**
 
 - 💬 Ask me about **Android , Mobile Application, Web Devlopment**
 
