@@ -1,11 +1,9 @@
 <!--
 **Abhishe Maheshwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/maheshwariabhishek-tech)
 
-<h1 align="center">Hi 👋, I'm Abhishek Maheshwari</h1>
-<p align="center">Software Engineer II • Building products used by millions 🚀</p>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="3%"> Hi, I'm Abhishek Maheshwari !</h1>
+<h5 align="center">Software Engineer II • Building products used by millions 🚀</h5>
 
----
 
 ### 🚀 About Me
 
