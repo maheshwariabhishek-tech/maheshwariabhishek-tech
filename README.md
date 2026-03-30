@@ -3,37 +3,81 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/maheshwariabhishek-tech)
 
 <h1 align="center">Hi 👋, I'm Abhishek Maheshwari</h1>
-<h3 align="center">I am a self-taught programmer from INDIA.</h3>
+<p align="center">Product Engineer • Building apps used by millions 🚀</p>
 
-### I am incredibly passionate about building unique and innovative products, love experimenting with new technologies! 👋
+---
 
-- 🔭 I’m currently working on **React Native, NextJS, ReactJS**
+### 🚀 About Me
 
-- 💬 Ask me about **Android , Mobile Application, Web Devlopment**
+I’m incredibly passionate about building **scalable and impactful products**, and love experimenting with modern technologies.
 
-- 📫 How to reach me **abhishekmaheshwari.contact@gmail.com**
+- 🛠 Currently working at **<a href="https://getstan.app/links/">Stan</a>**, building and scaling **<a href="https://play.google.com/store/apps/details?id=com.getstan&hl=en_IN">Stan App (35M+ downloads)</a>** and contributing to  
+  <a href="https://www.stanshop.co/in/">Stan Store Website</a>, focusing on **React Native, Next.js, ReactJS, performance, and large-scale systems**, find my work here 👉 <a href="https://github.com/abhishekstan">Work GitHub</a>.
 
+- 🕟 Previously, I worked at **Autope Payment Solutions**, where I contributed to building  
+  **<a href="https://play.google.com/store/apps/details?id=com.sraoss.dmrc&hl=en_IN">Delhi Metro App (15M+ downloads)</a>**, working on **payments, booking flows, and real-time systems** used by millions.
 
+- ⚡ Strong focus on **product thinking, scalability, and performance optimization** across mobile and web platforms.
+
+---
+
+### 🔭 Currently Working On
+
+- 🚀 Scaling production apps using **React Native, Next.js, React.js**
+- 🧠 Improving **app and web performance & architecture**
+- ⚡ Building **clean and maintainable UI systems**
+
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
+
+---
+
+## ⚡ Stats
+
+<div align="center">
+  <img
+    width="48%"
+    src="https://github-readme-streak-stats.herokuapp.com?user=maheshwariabhishek-tech&theme=react&hide_border=true"
+  />
+</div>
+
+---
+
+### 📫 Reach Me
+<a href="https://www.linkedin.com/in/abhishek-maheshwari-7a6352196/">
+      <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/linkedin.svg"></code>
+    </a>
+        <a href="">
+      <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/mail.svg"></code>
+    </a>
+        <a href="https://leetcode.com/u/maheshwariabhishek-tech/">
+      <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/leetcode.svg"></code>
+    </a>
+            <a href="https://abhishek.dev/">
+      <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/portfolio"></code>
+    </a>
+---
 
 <hr>
-<p align="center">
-   <i>Let's connect and chat! Open to anything under the sun.</i>
-  <p align="center">
-    <a href="https://www.linkedin.com/in/abhishek-maheshwari-7a6352196/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
-    <a href="linkedin.com/in/abhishek-maheshwari-7a6352196" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
-    <a href="https://github.com/maheshwariabhishek-tech" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
-  </p>
-<!--
-- 🔭 I’m currently working on 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about .
-- 📫 How to reach me: ...
 
--->
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iltwats&layout=compact&theme=radical&langs_count=10&card_width=300&hide=Makefile" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Iltwats&count_private=true&show_icons=true&theme=radical&line_height=27&v=5&include_all_commits=true" alt="Atul's github stats" />
-</a> -->
+<p align="center">
+   <i>Let's build something impactful 🚀</i>
+</p>
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/abhishek-maheshwari-7a6352196/">
+      <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
+    </a>
+    <a href="mailto:abhishekmaheshwari.contact@gmail.com">
+      <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg">
+    </a>
+    <a href="https://github.com/maheshwariabhishek-tech">
+      <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg">
+    </a>
+</p>
