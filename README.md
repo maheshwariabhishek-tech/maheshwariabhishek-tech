@@ -49,35 +49,8 @@ I’m incredibly passionate about building **scalable and impactful products**, 
 
 ---
 
-### 📫 Reach Me
-<a href="https://www.linkedin.com/in/abhishek-maheshwari-7a6352196/">
-      <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/linkedin.svg"></code>
-    </a>
-        <a href="">
-      <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/mail.svg"></code>
-    </a>
-        <a href="https://leetcode.com/u/maheshwariabhishek-tech/">
-      <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/leetcode.svg"></code>
-    </a>
-            <a href="https://abhishek.dev/">
-      <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/portfolio"></code>
-    </a>
----
-
-<hr>
-
-<p align="center">
-   <i>Let's build something impactful 🚀</i>
-</p>
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/abhishek-maheshwari-7a6352196/">
-      <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
-    </a>
-    <a href="mailto:abhishekmaheshwari.contact@gmail.com">
-      <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg">
-    </a>
-    <a href="https://github.com/maheshwariabhishek-tech">
-      <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg">
-    </a>
-</p>
+### 📫 Reach Me 
+<a href="https://www.linkedin.com/in/abhishek-maheshwari-7a6352196/"><code> <img height="65" src="https://img.icons8.com/?size=100&id=64154&format=png&color=000000" /></code></a> 
+<a href=""><code><img height="65" src="https://img.icons8.com/?size=100&id=6QtoKjRma1Cq&format=png&color=000000"></code></a>
+<a href="https://leetcode.com/u/maheshwariabhishek-tech/"><code><img height="55" src="https://img.icons8.com/?size=100&id=DY5ms98U0Yqs&format=png&color=000000"></code></a> 
+<a href="https://abhishek.dev/"> <code><img height="65" src="https://img.icons8.com/?size=100&id=115648&format=png&color=000000"></code></a>
