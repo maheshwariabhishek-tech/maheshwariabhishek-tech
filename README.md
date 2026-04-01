@@ -33,6 +33,7 @@ I’m incredibly passionate about building **scalable and impactful products**, 
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"></code>
 
 ---
 
