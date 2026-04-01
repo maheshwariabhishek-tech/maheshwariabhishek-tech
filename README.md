@@ -50,6 +50,6 @@ I’m incredibly passionate about building **scalable and impactful products**, 
 
 ### 📫 Reach Me 
 <a href="https://www.linkedin.com/in/abhishek-maheshwari-7a6352196/" target="_blank" rel="noopener noreferrer"><code> <img height="65" src="https://img.icons8.com/?size=100&id=64154&format=png&color=000000" /></code></a> 
-<a href="mailto:abhishekmaheshwari.contact@gmail.com" target="_blank" rel="noopener noreferrer"><code><img height="65" src="https://img.icons8.com/?size=100&id=6QtoKjRma1Cq&format=png&color=000000"></code></a>
+<a href="mailto:abhishekmaheshwari505@gmail.com" target="_blank" rel="noopener noreferrer"><code><img height="65" src="https://img.icons8.com/?size=100&id=6QtoKjRma1Cq&format=png&color=000000"></code></a>
 <a href="https://leetcode.com/u/maheshwariabhishek-tech/" target="_blank" rel="noopener noreferrer"><code><img height="55" src="https://img.icons8.com/?size=100&id=DY5ms98U0Yqs&format=png&color=000000"></code></a> 
 <a href="https://github.com/maheshwariabhishek-tech" target="_blank" rel="noopener noreferrer"><code><img height="65" src="https://img.icons8.com/?size=100&id=115648&format=png&color=000000"></code></a>
